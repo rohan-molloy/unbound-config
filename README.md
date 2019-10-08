@@ -1,5 +1,5 @@
 # Unbound Config
-This is my configuration for Unbound. Tries to be as well documented as I can, sourcing descriptions from the [man page](https://nlnetlabs.nl/documentation/unbound/unbound.conf/)  Organized into directories. [Exemplar unbound.conf](https://github.com/NLnetLabs/unbound/blob/master/doc/example.conf.in) can be found in the official [NLnetLabs/Unbound](https://github.com/NLnetLabs/unbound/) repo. You can source environment variables in the config like this `"@ENV_VARIABLE_NAME@".
+This is my configuration for Unbound. Tries to be as well documented as I can, sourcing descriptions from the [man page](https://nlnetlabs.nl/documentation/unbound/unbound.conf/)  Organized into directories. [Exemplar unbound.conf](https://github.com/NLnetLabs/unbound/blob/master/doc/example.conf.in) can be found in the official [NLnetLabs/Unbound](https://github.com/NLnetLabs/unbound/) repo. You can source environment variables in the config like this `"@ENV_VARIABLE_NAME@"`.
 
 ## Directories
 - conf-enabled  
